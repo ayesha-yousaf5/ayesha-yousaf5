@@ -12,7 +12,7 @@ AI Enthusiast | Machine Learning Explorer | Data-Driven Problem Solver
 
 <!-- ✨ Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Real+World+AI+Solutions;ExExploring+Machine+Learning+%26+Deep+Learning;Always+Learning+%26+Growing" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Building+Real+World+AI+Solutions;ExEXEXExploring+Machine+Learning+%26+Deep+Learning;Always+Learning+%26+Growing" />
 </p>
 
 ---
