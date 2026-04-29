@@ -1,35 +1,78 @@
-<h1 align="center">Hi 👋, I'm Ayesha Yousaf</h1>
-<h3 align="center">A passionate AI enthusiast building intelligent solutions.</h3>
+<h1 align="center">HAVA A PLEASANT DAY, I AM AYESHA YOUSAF</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-yousaf5&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-yousaf5" /> </p>
+<h3 align="center">
+A passionate AI enthusiast transforming data into intelligent, real-world solutions 🚀
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-yousaf5" alt="ayesha-yousaf5" /></a> </p>
-
-- 🔭 I’m currently working on **AI-based research Projects**
-
-- 🌱 I’m currently learning **automations**
-
-- 👯 I’m looking to collaborate on **different AI Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ayesha-yousaf5](https://github.com/ayesha-yousaf5)
-
-- 💬 Ask me about **AI, ML, Deep Learning**
-
-- 📫 How to reach me **ayeshayousaf.cs@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ayesha yousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha yousaf" height="30" width="40" /></a>
-<a href="https://kaggle.com/ayeshaayeshayousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayeshaayeshayousaf" height="30" width="40" /></a>
-<a href="https://instagram.com/ayesha_yousaf._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayesha_yousaf._" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/6200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="6200" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayesha-yousaf5&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-yousaf5" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ayesha-yousaf5&theme=algolia&margin-w=10&margin-h=10" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-yousaf5&show_icons=true&locale=en&layout=compact" alt="ayesha-yousaf5" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-yousaf5&show_icons=true&locale=en" alt="ayesha-yousaf5" /></p>
+### Something you are looking up
+- 🔭 Currently working on **AI-based research projects**
+- 🌱 Learning **Automation & Advanced AI Systems**
+- 👯 Open to collaborate on **AI / ML / Deep Learning Projects**
+- 💬 Ask me about **Machine Learning, Deep Learning, AI or anything related to Computer Science**
+- 📫 Reach me at: **ayeshayousaf.cs@gmail.com**
+- 🌐 Portfolio: [GitHub](https://github.com/ayesha-yousaf5)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-yousaf5&" alt="ayesha-yousaf5" /></p>
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="[https://linkedin.com/in/ayesha-yousaf](https://www.linkedin.com/in/ayesha-yousaf-77337a270?utm_source=share_via&utm_content=profile&utm_medium=member_android)" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+  <a href="https://kaggle.com/ayeshaayeshayousaf" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="40"/>
+  </a>
+  <a href="https://instagram.com/ayesha_yousaf._" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+  </a>
+ <a href="https://kaggle.com/ayeshaayeshayousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayeshaayeshayousaf" height="30" width="40" /></a>
+  
+</p>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,figma,postgres" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40"/>
+</p>
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayesha-yousaf5&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-yousaf5&theme=tokyonight" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-yousaf5&show_icons=true&locale=en&layout=compact&theme=tokyonight" height="150"/>
+</p>
+
+---
+
+### ✨ Quote I Believe In
+<p align="center">
+  <i>"Building intelligent systems today for a smarter tomorrow."</i>
+</p>
