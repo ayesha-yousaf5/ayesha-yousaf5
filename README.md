@@ -1,38 +1,35 @@
-# 👋 Hi there, I'm Ayesha Yousaf!
+<h1 align="center">Hi 👋, I'm Ayesha Yousaf</h1>
+<h3 align="center">A passionate AI enthusiast building intelligent solutions.</h3>
 
-Welcome to my GitHub profile! I'm passionate about **Machine Learning** , and I love turning data into impactful insights.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayesha-yousaf5&label=Profile%20views&color=0e75b6&style=flat" alt="ayesha-yousaf5" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayesha-yousaf5" alt="ayesha-yousaf5" /></a> </p>
 
-## 🚀 About Me
+- 🔭 I’m currently working on **AI-based research Projects**
 
-- 🎓 I'm a Computer Science student with a growing interest in **ML**, **AI**.
-- 🔍 Currently exploring topics like **Supervised Learning**, **Model Evaluation**, and **Data Preprocessing**
-- 🧠 Always excited to learn new tools and libraries such as **Pandas**, **Scikit-learn**, **Matplotlib**, and **TensorFlow**
-- 🛠️ Building real-world projects to strengthen my skills and portfolio
+- 🌱 I’m currently learning **automations**
 
----
+- 👯 I’m looking to collaborate on **different AI Projects**
 
-## 🤝 Looking to Collaborate On
+- 👨‍💻 All of my projects are available at [https://github.com/ayesha-yousaf5](https://github.com/ayesha-yousaf5)
 
-- 📊 Data Science & ML-based projects
-- 🧪 Research-oriented mini-projects or experiments in ML
-- 👨‍💻 Open source contributions related to AI/ML
+- 💬 Ask me about **AI, ML, Deep Learning**
 
----
+- 📫 How to reach me **ayeshayousaf.cs@gmail.com**
 
-## 📫 How to Reach Me
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ayesha yousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayesha yousaf" height="30" width="40" /></a>
+<a href="https://kaggle.com/ayeshaayeshayousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayeshaayeshayousaf" height="30" width="40" /></a>
+<a href="https://instagram.com/ayesha_yousaf._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayesha_yousaf._" height="30" width="40" /></a>
+<a href="https://www.topcoder.com/members/6200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="6200" height="30" width="40" /></a>
+</p>
 
-- 📧 Email: [Aishayousuf164@gmail.com](mailto:Aishayousuf164@gmail.com)
-- 💬 Discord: **Ayesha Yousaf**
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
----
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayesha-yousaf5&show_icons=true&locale=en&layout=compact" alt="ayesha-yousaf5" /></p>
 
-## 📌 Fun Fact
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayesha-yousaf5&show_icons=true&locale=en" alt="ayesha-yousaf5" /></p>
 
-I made the switch from biology to coding — and I'm loving every bit of this data-driven journey! 😄
-
-<!---
-ayesha-yousaf5/ayesha-yousaf5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayesha-yousaf5&" alt="ayesha-yousaf5" /></p>
