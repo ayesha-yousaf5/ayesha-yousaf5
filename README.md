@@ -3,11 +3,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=180&section=header&text=Ayesha%20Yousaf&fontSize=35&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<!-- 👋 Intro -->
+<!--  Intro -->
 <h2 align="center">HAVE A PLEASANT DAY</h2>
 
 <h3 align="center">
-🚀 AI Enthusiast | 🤖 Machine Learning Explorer | 📊 Data-Driven Problem Solver
+AI Enthusiast | Machine Learning Explorer | Data-Driven Problem Solver
 </h3>
 
 <!-- ✨ Typing Animation -->
@@ -31,9 +31,21 @@
 ## 🌐 Connect With Me
 
 <p align="center">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ayesha-yousaf-77337a270" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
- <a href="https://kaggle.com/ayeshaayeshayousaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ayeshaayeshayousaf" height="30" width="40" /></a>
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <!-- Kaggle (fixed) -->
+  <a href="https://kaggle.com/ayeshaayeshayousaf" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="45"/>
+  </a>
+  
+  &nbsp;&nbsp;
+
+  <!-- Instagram -->
   <a href="https://instagram.com/ayesha_yousaf._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
   </a>
@@ -41,7 +53,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,html,css,git,figma,postgres,tensorflow,opencv" />
@@ -55,7 +67,7 @@
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <p align="center">
   🔹 AI-Based Disease Detection System  
@@ -66,7 +78,7 @@
 
 ---
 
-## 📊 GitHub Insights
+##  GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ayesha-yousaf5&show_icons=true&theme=tokyonight" height="160"/>
@@ -75,7 +87,7 @@
 
 ---
 
-## ✨ Personal Motto
+##  Personal Motto
 
 <p align="center">
   <i>"Designing intelligent systems today for a smarter tomorrow."</i>
