@@ -31,23 +31,16 @@ AI Enthusiast | Machine Learning Explorer | Data-Driven Problem Solver
 ## 🌐 Connect With Me
 
 <p align="center">
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/ayesha-yousaf-77337a270" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
   
-  &nbsp;&nbsp;
-
-  <!-- Kaggle (fixed) -->
-  <a href="https://kaggle.com/ayeshaayeshayousaf" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/kaggle.svg" height="45"/>
-  </a>
-  
-  &nbsp;&nbsp;
-
-  <!-- Instagram -->
   <a href="https://instagram.com/ayesha_yousaf._" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+
+  <a href="https://kaggle.com/ayeshaayeshayousaf" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" height="45"/>
   </a>
 </p>
 
